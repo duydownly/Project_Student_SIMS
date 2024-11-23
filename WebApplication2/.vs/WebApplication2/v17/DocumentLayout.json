@@ -1,54 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Vscode\\Project\\WebApplication2\\",
+  "WorkspaceRootPath": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\contentareapages\\studentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\contentareapages\\studentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\wwwroot\\css\\adminpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\adminpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\contentareapages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\contentareapages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\wwwroot\\js\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\js\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\css\\adminpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\adminpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\contentareapagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\contentareapagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\js\\studentmanagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\studentmanagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\css\\studentmanagement.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\studentmanagement.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\css\\studentmanagement.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\studentmanagement.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,33 +82,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "login.js",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\login.js",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
               "RelativeToolTip": "WebApplication2\\wwwroot\\js\\login.js",
-              "ViewState": "AgIAABsAAAAAAAAAAAAjwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-14T09:52:36.5Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.css",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\login.css",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T09:52:14.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "login.css",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\login.css",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\login.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-14T09:52:14.685Z",
-              "IsPinned": true
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController .cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:28:39.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -92,124 +132,196 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:01:49.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "WebApplication2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T21:01:44.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AdminController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T20:34:53.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminPage.js",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-22T20:34:05.114Z"
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T20:57:12.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminPage.css",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\css\\AdminPage.css",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\AdminPage.css",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\wwwroot\\css\\AdminPage.css",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\AdminPage.css",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-22T20:33:35.698Z"
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T20:57:00.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminPage.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Views\\Admin\\AdminPage.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Admin\\AdminPage.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Views\\Admin\\AdminPage.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Admin\\AdminPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T20:32:56.227Z"
+              "DocumentIndex": 11,
+              "Title": "ContentAreaPagesController.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\ContentAreaPagesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ContentAreaPagesController.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\ContentAreaPagesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ContentAreaPagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:45:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentManagement.css",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T18:42:40.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentManagement.js",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\StudentManagement.js",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\StudentManagement.js",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\StudentManagement.js",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\StudentManagement.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T18:40:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentManagement.css",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\StudentManagement.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T18:40:08.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController .cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController .cs",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:28:39.62Z",
+              "Title": "StudentManagement.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\StudentManagement.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\ContentAreaPages\\StudentManagement.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\StudentManagement.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\ContentAreaPages\\StudentManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T18:30:48.017Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T18:13:33.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:28:38.832Z"
+              "WhenOpened": "2024-11-23T17:10:16.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:28:22.801Z"
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:58:10.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T13:27:58.758Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:01:49.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T21:01:44.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:34:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPage.js",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\AdminPage.js",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\AdminPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T20:34:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminPage.css",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\AdminPage.css",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\AdminPage.css",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\AdminPage.css",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\css\\AdminPage.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T20:33:35.698Z",
+              "EditorCaption": ""
             }
           ]
         }

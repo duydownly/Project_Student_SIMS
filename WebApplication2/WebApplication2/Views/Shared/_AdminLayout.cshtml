@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/AdminPage.css" />
+</head>
+<body>
+    <div class="admin-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2 class="logo">SIMS</h2>
+            <ul class="menu">
+                <li><a href="@Url.Action("AdminPage", "Admin", new { menuItem = "Home" })">Home</a></li>
+                <li><a href="@Url.Action("AdminPage", "Admin", new { menuItem = "Student" })">Student</a></li>
+                <li><a href="@Url.Action("AdminPage", "Admin", new { menuItem = "Course" })">Course</a></li>
+                <li><a href="@Url.Action("AdminPage", "Admin", new { menuItem = "Teacher" })">Teacher</a></li>
+                <li><a href="@Url.Action("AdminPage", "Admin", new { menuItem = "Enroll" })">Enroll</a></li>
+                <li><a href="@Url.Action("Logout", "Account")">Log out</a></li>
+            </ul>
+        </div>
+
+        <!-- Content Area -->
+        <div class="content-area">
+            <h1>@ViewData["ContentTitle"]</h1>
+            @RenderBody() <!-- Đây là nơi render nội dung động từ controller -->
+        </div>
+    </div>
+</body>
+</html>

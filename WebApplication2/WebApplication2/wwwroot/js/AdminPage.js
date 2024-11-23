@@ -1,4 +1,6 @@
-﻿function changeContent(menuItem) {
+﻿// wwwroot/js/AdminPage.js
+
+function changeContent(menuItem) {
     const contentTitle = document.getElementById("content-title");
     const contentDescription = document.getElementById("content-description");
 

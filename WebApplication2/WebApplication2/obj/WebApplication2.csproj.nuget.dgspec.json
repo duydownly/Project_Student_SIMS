@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\tranl\\.nuget\\packages\\",
-        "outputPath": "E:\\Vscode\\Project\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranl\\AppData\\Roaming\\NuGet\\NuGet.Config",
