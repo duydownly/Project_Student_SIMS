@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <!-- Liên kết tới file CSS -->
+    <link rel="stylesheet" type="text/css" href="~/css/login.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="left-panel">
+            <h2>Log in to your account</h2>
+            <p>Welcome! Select method to login:</p>
+
+            <div class="form-switch">
+                <button id="studentBtn" class="active">Student</button>
+                <button id="teacherBtn">Teacher</button>
+                <button id="adminBtn">Admin</button>
+            </div>
+
+            <!-- Student Login Form -->
+            <form id="studentForm" class="active">
+                <input type="text" placeholder="Student Username" required>
+                <input type="password" placeholder="Password" required>
+                <label><input type="checkbox"> Remember password</label>
+                <button class="login-btn">Login</button>
+            </form>
+
+            <!-- Teacher Login Form -->
+            <form id="teacherForm">
+                <input type="text" placeholder="Teacher Username" required>
+                <input type="password" placeholder="Password" required>
+                <label><input type="checkbox"> Remember password</label>
+                <button class="login-btn">Login</button>
+            </form>
+
+            <!-- Admin Login Form -->
+            <form id="adminForm">
+                <input type="text" placeholder="Admin Username" required>
+                <input type="password" placeholder="Password" required>
+                <label><input type="checkbox"> Remember password</label>
+                <button class="login-btn">Login</button>
+            </form>
+        </div>
+        <div class="right-panel">
+            <h1>Academic Portal</h1>
+        </div>
+    </div>
+
+    <!-- Liên kết file JS -->
+    <script src="~/js/login.js"></script>
+
+</body>
+</html>
