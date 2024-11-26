@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\AdminPage.css"
     },
     {
-      "Id": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\StudentManagement.css",
-      "PackagePath": "staticwebassets\\css\\StudentManagement.css"
-    },
-    {
       "Id": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -23,10 +19,6 @@
     {
       "Id": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
       "PackagePath": "staticwebassets\\js\\AdminPage.js"
-    },
-    {
-      "Id": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\StudentManagement.js",
-      "PackagePath": "staticwebassets\\js\\StudentManagement.js"
     },
     {
       "Id": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",

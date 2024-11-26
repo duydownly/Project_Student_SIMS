@@ -18,14 +18,14 @@ namespace WebApplication2.Controllers
                 _ => "Admin Panel"
             };
 
-            // Trả về các View con dựa vào menuItem
+            // Chuyển hướng tới các trang con dựa vào menuItem
             return menuItem switch
             {
-                "Student" => View("~/Views/ContentAreaPages/StudentManagement.cshtml"),
-                "Course" => View("~/Views/ContentAreaPages/CourseManagement.cshtml"),
-                "Teacher" => View("~/Views/ContentAreaPages/TeacherManagement.cshtml"),
-                "Enroll" => View("~/Views/ContentAreaPages/EnrollManagement.cshtml"),
-                "Logout" => RedirectToAction("Login", "Account"), // Xử lý đăng xuất
+                "Student" => RedirectToAction("Index", "StudentManagements"), // Chuyển hướng đến trang StudentManagements
+                "Course" => RedirectToAction("Index", "CourseManagements"),  // Chuyển hướng đến trang CourseManagements
+                "Teacher" => RedirectToAction("Index", "TeacherManagements"), // Chuyển hướng đến trang TeacherManagements
+                "Enroll" => View("~/Views/ContentAreaPages/EnrollPage.cshtml"), // Render view EnrollPage.cshtml
+                "Logout" => View("~/Views/Account/Login.cshtml"), // Render view EnrollPage.cshtml
                 _ => View("~/Views/ContentAreaPages/Home.cshtml") // Trang mặc định khi không có lựa chọn
             };
         }

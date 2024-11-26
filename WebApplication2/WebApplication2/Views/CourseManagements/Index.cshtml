@@ -1,0 +1,135 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";  // Chỉ định layout Admin cho view này
+}
+
+@model IEnumerable<WebApplication2.Models.CourseManagement>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* General body styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Title styling */
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 30px;
+        }
+
+        /* Link styling */
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Table container */
+        .table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        /* Table header styling */
+        .table thead {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        .table th, .table td {
+            padding: 15px;
+            text-align: left;
+        }
+
+        /* Table row styling */
+        .table tbody tr {
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* Hover effect for table rows */
+        .table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        /* Action buttons styling */
+        .table td a {
+            color: #007bff;
+            margin-right: 10px;
+        }
+
+        .table td a:last-child {
+            margin-right: 0;
+        }
+
+        .table td a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Index</h1>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.course_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.course_fee)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.course_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.course_fee)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.course_id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.course_id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.course_id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,41 +1,66 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using WebApplication2.Data;
 
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
+
+// Ensure the connection string for SIMSDB is correctly set up
+builder.Services.AddDbContext<WebApplication2Context>(options =>
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("WebApplication2Context")
+        ?? throw new InvalidOperationException("Connection string 'WebApplication2Context' not found.")));
+
+// Add services to the container
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline
 if (!app.Environment.IsDevelopment())
 {
-    // Show custom error page in production.
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
 
-app.UseHttpsRedirection(); // Enforces HTTPS redirection
-app.UseStaticFiles(); // Allows static files like CSS, JS, Images, etc.
+app.UseHttpsRedirection();
+app.UseStaticFiles();
 
-app.UseRouting(); // Enables routing
-app.UseAuthorization(); // Enables authorization if needed
+app.UseRouting();
+app.UseAuthorization();
 
-// Default route - changed from Home/Index to Account/Login
+// Define routes
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Account}/{action=Login}/{id?}"); // This will default to Account/Login if no controller is specified
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
-// Custom route for AdminController
-
-
-// Custom route for StudentManagementController
-app.MapControllerRoute(
-    name: "studentmanagement",
-    pattern: "StudentManagement/{action=StudentManagement}/{id?}");
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Admin}/{action=AdminPage}/{menuItem?}");
 app.MapControllerRoute(
     name: "admin",
     pattern: "Admin/{action=Dashboard}/{id?}");
+
+app.MapControllerRoute(
+    name: "studentmanagement",
+    pattern: "StudentManagement/{action=StudentManagement}/{id?}");
+
+app.MapControllerRoute(
+    name: "teachermanagement",
+    pattern: "TeacherManagement/{action=TeacherManagement}/{id?}");
+
+app.MapControllerRoute(
+    name: "coursemanagement",
+    pattern: "CourseManagement/{action=CourseManagement}/{id?}");
+
+app.MapControllerRoute(
+    name: "enrollmanagement",
+    pattern: "EnrollManagement/{action=EnrollManagement}/{id?}");
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=StudentView}/{action=Index}/{studentId?}");
+
+
+app.MapControllerRoute(
+    name: "defaultAdmin",
+    pattern: "{controller=Admin}/{action=AdminPage}/{menuItem?}");
+
 // Run the application
 app.Run();

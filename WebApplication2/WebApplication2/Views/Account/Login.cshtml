@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Page</title>
-    <!-- Liên kết tới file CSS -->
+    <!-- Link to your CSS file -->
     <link rel="stylesheet" type="text/css" href="~/css/login.css">
 </head>
 <body>
@@ -25,27 +25,27 @@
             </div>
 
             <!-- Student Login Form -->
-            <form id="studentForm" class="active">
-                <input type="text" placeholder="Student Username" required>
-                <input type="password" placeholder="Password" required>
-                <label><input type="checkbox"> Remember password</label>
-                <button class="login-btn">Login</button>
+            <form id="studentForm" class="active" method="post" action="/Account/Login">
+                <input type="text" name="email" placeholder="Student Username" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <label><input type="checkbox" name="remember"> Remember password</label>
+                <button type="submit" class="login-btn">Login</button>
             </form>
 
             <!-- Teacher Login Form -->
-            <form id="teacherForm">
-                <input type="text" placeholder="Teacher Username" required>
-                <input type="password" placeholder="Password" required>
-                <label><input type="checkbox"> Remember password</label>
-                <button class="login-btn">Login</button>
+            <form id="teacherForm" method="post" action="/Account/Login">
+                <input type="text" name="email" placeholder="Teacher Username" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <label><input type="checkbox" name="remember"> Remember password</label>
+                <button type="submit" class="login-btn">Login</button>
             </form>
 
             <!-- Admin Login Form -->
-            <form id="adminForm">
-                <input type="text" placeholder="Admin Username" required>
-                <input type="password" placeholder="Password" required>
-                <label><input type="checkbox"> Remember password</label>
-                <button class="login-btn">Login</button>
+            <form id="adminForm" method="post" action="/Account/Login">
+                <input type="text" name="email" placeholder="Admin Username" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <label><input type="checkbox" name="remember"> Remember password</label>
+                <button type="submit" class="login-btn">Login</button>
             </form>
         </div>
         <div class="right-panel">
@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <!-- Liên kết file JS -->
+    <!-- Link to your JavaScript file -->
     <script src="~/js/login.js"></script>
 
 </body>
