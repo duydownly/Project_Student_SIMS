@@ -3,125 +3,12 @@
   "WorkspaceRootPath": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\teachermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\teachermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\student_coursesmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\student_coursesmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\data\\webapplication2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\webapplication2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\studentmanagements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\studentmanagements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\studentmanagements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\studentmanagements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\studentmanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\studentmanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\studentmanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentmanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\coursemanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\coursemanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\js\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\adminpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery233.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery233.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\teachermanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\teachermanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery133.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery133.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\student_coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student_coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery122.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery122.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\teacher_coursesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\teacher_coursesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tranl\\AppData\\Local\\Temp\\lu5pf0q1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student_courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\student_coursesmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student_coursesmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\contentareapages\\enrollpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -132,38 +19,24 @@
       "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\contentareapages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\teacher_coursesmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\teacher_coursesmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\coursemanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\coursemanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.admin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\teachermanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\teachermanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\EnrollManagements\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2\\Views\\EnrollManagements\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\EnrollManagementsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2\\Controllers\\EnrollManagementsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|e:\\vscode\\project\\project_student_sims\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578DAD57-5B3C-4F74-BD92-D797BC78EBF2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -173,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -181,490 +54,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Class.cs",
               "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Class.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\Class.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Class.cs*",
-              "RelativeToolTip": "WebApplication2\\Models\\Class.cs*",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAgwJEAAAABAAAAAAAAAA==",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Class.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:30:08.656Z",
+              "WhenOpened": "2024-11-26T13:58:21.849Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\StudentManagements\\Delete.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Delete.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\StudentManagements\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:16:12.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student_CoursesManagementController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\Student_CoursesManagementController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Student_CoursesManagementController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\Student_CoursesManagementController.cs*",
-              "RelativeToolTip": "WebApplication2\\Controllers\\Student_CoursesManagementController.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:31:54.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentManagement.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\StudentManagement.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\StudentManagement.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\StudentManagement.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\StudentManagement.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:29:35.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\StudentManagements\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\StudentManagements\\Index.cshtml",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAiwIwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:39:43.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\StudentManagements\\Create.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\StudentManagements\\Create.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\StudentManagements\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:47:31.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApplication2Context.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Data\\WebApplication2Context.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Data\\WebApplication2Context.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Data\\WebApplication2Context.cs",
-              "RelativeToolTip": "WebApplication2\\Data\\WebApplication2Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:56:28.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeacherManagement.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\TeacherManagement.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\TeacherManagement.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\TeacherManagement.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\TeacherManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:39:29.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login.js",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\login.js",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\login.js",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwBsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-25T23:53:31.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StudentManagementsController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\StudentManagementsController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentManagementsController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\StudentManagementsController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\StudentManagementsController.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAcwJ0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:45:28.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CourseManagementsController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\CourseManagementsController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CourseManagementsController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\CourseManagementsController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\CourseManagementsController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAhwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:30:38.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AdminController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:52:21.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeacherManagementsController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\TeacherManagementsController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TeacherManagementsController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\TeacherManagementsController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\TeacherManagementsController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:31:55.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SQLQuery233.sql",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery233.sql",
-              "RelativeDocumentMoniker": "SQLQuery233.sql",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery233.sql",
-              "RelativeToolTip": "SQLQuery233.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T06:55:00.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminPage.js",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\AdminPage.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T03:26:52.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
               "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Program.cs",
               "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:10:48.624Z"
+              "WhenOpened": "2024-11-26T13:58:00.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SQLQuery133.sql",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery133.sql",
-              "RelativeDocumentMoniker": "SQLQuery133.sql",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery133.sql",
-              "RelativeToolTip": "SQLQuery133.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T06:52:55.114Z"
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:56:54.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Admin.cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Admin.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Admin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T23:39:12.501Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:56:52.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Login.cshtml",
               "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T03:42:41.229Z"
+              "WhenOpened": "2024-11-26T13:55:28.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T23:39:13.977Z"
+              "DocumentIndex": 0,
+              "Title": "login.js",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\login.js",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\login.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T13:51:14.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SQLQuery122.sql",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery122.sql",
-              "RelativeDocumentMoniker": "SQLQuery122.sql",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery122.sql",
-              "RelativeToolTip": "SQLQuery122.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T03:04:48.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "WebApplication2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T00:43:55.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Student_CourseManagement.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Student_CourseManagement.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Student_CourseManagement.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Student_CourseManagement.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Student_CourseManagement.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController .cs",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:27:02.851Z"
+              "WhenOpened": "2024-11-26T14:00:09.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:28:04.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Teacher_CoursesManagement.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Teacher_CoursesManagement.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Teacher_CoursesManagement.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Models\\Teacher_CoursesManagement.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Teacher_CoursesManagement.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA0wBYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:27:48.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SQLQuery2.sql",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery2.sql",
-              "RelativeDocumentMoniker": "SQLQuery2.sql",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery2.sql",
-              "RelativeToolTip": "SQLQuery2.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T01:42:36.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\SQLQuery1.sql",
-              "RelativeToolTip": "SQLQuery1.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T01:42:08.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "lu5pf0q1..sql",
-              "DocumentMoniker": "C:\\Users\\tranl\\AppData\\Local\\Temp\\lu5pf0q1..sql",
-              "ToolTip": "C:\\Users\\tranl\\AppData\\Local\\Temp\\lu5pf0q1..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T00:14:18.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "dbo.student_courses.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student_courses.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student_courses.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T00:11:39.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "dbo.courses.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.courses.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.courses.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-26T00:11:45.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Student_CoursesManagement\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student_CoursesManagement\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Student_CoursesManagement\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Student_CoursesManagement\\Index.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwIAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T23:32:14.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EnrollPage.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T23:39:20.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 3,
               "Title": "Home.cshtml",
               "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
               "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\ContentAreaPages\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:38:36.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Teacher_CoursesManagement\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Teacher_CoursesManagement\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\Teacher_CoursesManagement\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Teacher_CoursesManagement\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwFQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T23:32:19.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\CourseManagements\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\CourseManagements\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\CourseManagements\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\CourseManagements\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:56:34.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "dbo.admin.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.admin.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.admin.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-25T15:01:59.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:39:33.429Z"
+              "WhenOpened": "2024-11-26T14:07:03.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-25T14:47:18.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\TeacherManagements\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\TeacherManagements\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\TeacherManagements\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\TeacherManagements\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EnrollPage.cshtml",
+              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
+              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\ContentAreaPages\\EnrollPage.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:55:54.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\EnrollManagements\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\EnrollManagements\\Index.cshtml",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Views\\EnrollManagements\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\EnrollManagements\\Index.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:56:45.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "EnrollManagementsController.cs",
-              "DocumentMoniker": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\EnrollManagementsController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EnrollManagementsController.cs",
-              "ToolTip": "E:\\Vscode\\Project\\Project_Student_SIMS\\WebApplication2\\WebApplication2\\Controllers\\EnrollManagementsController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\EnrollManagementsController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:31:17.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "dbo.student.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SIMSDB/True/SqlTable/dbo.student.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-25T14:29:21.387Z"
+              "WhenOpened": "2024-11-26T14:07:41.97Z",
+              "EditorCaption": ""
             }
           ]
         }
